@@ -61,7 +61,7 @@ PoC_System/
 
 - **Frontend**: Streamlit
 - **Data Processing**: Pandas, NumPy
-- **Synthetic Data**: SDV (Synthetic Data Vault) CTGAN
+- **Synthetic Data**: SDV (Synthetic Data Vault)
 - **Visualization**: Matplotlib
 - **Database**: SQLite3
 - **Statistical Analysis**: SciPy
